@@ -4,6 +4,16 @@
 
 > **Project built and maintained by [Manas Arora](https://www.linkedin.com/in/aroramanas01/)**
 
+## 🌐 Live Demo
+
+Check out the live application: **[https://invoiceflowbilling.web.app](https://invoiceflowbilling.web.app)**
+
+### Test Credentials
+| Role | Username | Password |
+|------|----------|----------|
+| **Admin** | `admin` | `123456` |
+| **Staff** | `staff` | `123456` |
+
 ---
 
 ## 🚀 Key Features
