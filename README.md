@@ -28,6 +28,24 @@ Check out the live application: **[https://invoiceflowbilling.web.app](https://i
 
 ---
 
+## ⌨️ Keyboard Shortcuts
+
+Navigate the application quickly with these shortcuts:
+
+| Shortcut | Description |
+|----------|-------------|
+| **`Alt + B`** | Go to **Billing** |
+| **`Alt + D`** | Go to **Dashboard** |
+| **`Alt + I`** | Go to **Inventory** |
+| **`Alt + P`** | Go to **Purchases** |
+| **`Alt + S`** | Go to **Suppliers** |
+| **`Alt + C`** | Go to **Customers** |
+| **`Alt + R`** | Go to **Reports** |
+| **`Ctrl + Space`** | **Focus Search Bar** (in Billing/Inventory) |
+| **`Ctrl + P`** | Quick Action: **New Purchase Entry** |
+
+---
+
 ## 🛠️ Technology Stack
 
 *   **Frontend**: React.js, Vite, TailwindCSS
